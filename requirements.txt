@@ -1,0 +1,15 @@
+streamlit
+pandas
+pyresparser
+pdfminer3
+streamlit-tags
+pillow
+pymysql
+yt-dlp
+matplotlib
+plotly
+nltk
+scikit-learn
+joblib
+numpy
+
